@@ -7,23 +7,24 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto consiste em uma landing page interativa desenvolvida exclusivamente com HTML e CSS, focada em criar uma experiência visual dinâmica e envolvente. A temática gira em torno do universo dos patins, incorporando animações suaves e um design moderno. É ideal para praticar e aprimorar técnicas de animação em CSS3.&#8203;:contentReference[oaicite:4]{index=4}
+Este projeto consiste em uma landing page interativa desenvolvida exclusivamente com HTML e CSS, focada em criar uma experiência visual dinâmica e envolvente. A temática gira em torno do universo dos patins, incorporando animações suaves e um design moderno. É ideal para praticar e aprimorar técnicas de animação em CSS3.
 
----
+![image](https://github.com/user-attachments/assets/472e0459-57f2-41b9-ab5e-6cfa63eba1c9)
+
 
 ## 🎨 Funcionalidades
 
-- 🎥 **Animações CSS:** :contentReference[oaicite:5]{index=5}
-- 🖼️ **Design Responsivo:** :contentReference[oaicite:6]{index=6}
-- 🛼 **Elementos Temáticos:** :contentReference[oaicite:7]{index=7}
-- ⚡ **Efeitos de Hover:** :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
+- 🎥 **Animações CSS 
+- 🖼️ **Design Responsivo
+- 🛼 **Elementos Temáticos
+- ⚡ **Efeitos de Hover
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+- HTML5
+- CSS3
 
 ---
 
