@@ -14,10 +14,10 @@ Este projeto consiste em uma landing page interativa desenvolvida exclusivamente
 
 ## 🎨 Funcionalidades
 
-- 🎥 **Animações CSS 
-- 🖼️ **Design Responsivo
-- 🛼 **Elementos Temáticos
-- ⚡ **Efeitos de Hover
+- 🎥 Animações CSS 
+- 🖼️ Design Responsivo
+- 🛼 Elementos Temáticos
+- ⚡ Efeitos de Hover
 
 ---
 
@@ -29,8 +29,9 @@ Este projeto consiste em uma landing page interativa desenvolvida exclusivamente
 ---
 
 ## 🚀 Como Executar
-
-1. :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+ 
 
    ```bash
    git clone https://github.com/horquidia-lima/LP-de-patins-animada.git
+
+https://lp-patins.netlify.app/
