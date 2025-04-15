@@ -1,5 +1,7 @@
 # 🛼 Landing Page de Patins Animada
 
+https://lp-patins.netlify.app/
+
 🚀 **Projeto da Trilha Full Stack Rocketseat**  
 🎯 **Objetivo:** Praticar técnicas de animações e transições em CSS
 
@@ -34,4 +36,3 @@ Este projeto consiste em uma landing page interativa desenvolvida exclusivamente
    ```bash
    git clone https://github.com/horquidia-lima/LP-de-patins-animada.git
 
-https://lp-patins.netlify.app/
